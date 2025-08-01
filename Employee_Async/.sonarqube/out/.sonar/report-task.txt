@@ -1,0 +1,6 @@
+projectKey=EmployeeCrud
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=EmployeeCrud
+ceTaskId=7ef2d7f9-d93f-4055-8f7f-2bbd85f02d2f
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7ef2d7f9-d93f-4055-8f7f-2bbd85f02d2f
